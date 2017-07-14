@@ -1,7 +1,8 @@
 import React from 'react'
 import YourComponent from 'components/YourComponent'
 import Alert from 'components/Alert'
-import About from 'components/About'
+// import About from 'components/About'
+import { About } from 'wisesmile-react-components'
 
 
 class App extends React.Component {

@@ -1,10 +1,11 @@
 {
-  "name": "create-react-app-npm",
+  "name": "wisesmile-react-components",
   "version": "0.0.2",
   "main": "lib/index.js",
   "dependencies": {
     "react": "^15.5.3",
-    "react-dom": "^15.5.3"
+    "react-dom": "^15.5.3",
+    "wisesmile-react-components": "^0.0.2"
   },
   "devDependencies": {
     "autoprefixer": "6.7.2",
